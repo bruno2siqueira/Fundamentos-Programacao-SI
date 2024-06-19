@@ -1,6 +1,9 @@
-//Neste exemplo, criaremos um sistema que permite ao usuário cadastrar uma senha e depois 
-//verificar se a senha digitada está correta. Usaremos estruturas condicionais para validar 
-//a senha e permitir ou negar o acesso.
+/*
+Neste exemplo, criaremos um sistema que permite ao usuário cadastrar uma senha e depois
+verificar se a senha digitada está correta. Usaremos estruturas condicionais para validar 
+a senha e permitir ou negar o acesso. 
+*/
+
 #include <stdio.h>
 
 int main() {
