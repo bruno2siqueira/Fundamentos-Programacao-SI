@@ -1,7 +1,6 @@
 /*
-Neste exemplo, criaremos um sistema que permite ao usuário cadastrar uma senha e depois
-verificar se a senha digitada está correta. Usaremos estruturas condicionais para validar 
-a senha e permitir ou negar o acesso. 
+Neste exemplo, criaremos um sistema simplificado de reservas de hotel que permite ao usuário escolher entre diferentes tipos de quartos 
+e períodos de estadia, calculando o custo total com base nas escolhas do usuário.
 */
 
 #include <stdio.h>
