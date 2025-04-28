@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/b2siqueira/Documents/exercicios_em_C/Programacao_C_2025/output/lerNotasMedia'
+relocations:     []
+...
