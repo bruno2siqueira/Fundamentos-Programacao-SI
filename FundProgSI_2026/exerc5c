@@ -1,0 +1,12 @@
+#include <stdio.h>
+// #define TAXA 1.23
+int main()
+{
+
+    float valor, taxa;
+    taxa = 1.23;
+    scanf("%f", &valor); // notas inseridas em uma linha
+    printf("Valor Final: %.2f", valor * taxa);
+
+    return 0;
+}
